@@ -2,7 +2,7 @@
 
 ## About Me
 
-Data Scientist with experience in building machine learning models, analyzing transactional, customer, and operational data to drive business insights and operational efficiency. Skilled in SQL, Advanced Excel and Power BI for reporting, dashboarding and data validation.
+Data Scientist with 1+ years of experience in building machine learning models, analyzing transactional, customer, and operational data to drive business insights and operational efficiency. Skilled in SQL, Advanced Excel and Power BI for reporting, dashboarding and data validation.
 
 I started my data career after i was done with studying Estate Management at Nnamdi Azikiwe University, Anambra State. I went on to complete a Data Science certification at GOMYCODE Lagos, where I also interned as a Data Scientist.
 
