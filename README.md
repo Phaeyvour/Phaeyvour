@@ -15,12 +15,6 @@ I started my data career after i was done with studying Estate Management at Nna
 * **Databases:** SQL Server (SSMS), PostgreSQL
 * **Tools:** VS code, Jupyter
 
-
-
-## Featured Projects
-
-* **Logistics Data Cleaning & Analysis** — End-to-end data cleaning and SQL analysis of a 5,000-row logistics operations dataset using Excel, SQL Server and Power BI
-
 ## Certifications
 
 * Certificate of Completion in Data Science — GOMYCODE *(August 2025)*
